@@ -1,3 +1,5 @@
+<img width="2192" height="1516" alt="Image 26-06-26 at 4 17 PM" src="https://github.com/user-attachments/assets/1f55f243-d60b-4240-9897-d4f5ee2688b2" />
+<img width="2024" height="1442" alt="Image 26-06-26 at 4 18 PM" src="https://github.com/user-attachments/assets/9b3ec059-df4d-46ca-9e23-0fece863dac3" />
 # Day-25
 Build an AI Shark Tank Simulator
 [ai_shark_tank_simulator.html](https://github.com/user-attachments/files/29377696/ai_shark_tank_simulator.html)
